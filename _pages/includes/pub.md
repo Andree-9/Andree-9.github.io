@@ -1,5 +1,5 @@
 
-# 📝 Publications 
+# Publications 
 
 * **Towards Joint Utilization of Absolute and Relative Bandit Feedback for Conversational Recommendation** <br>
   **Yu Xia**\*, Zhihui Xie\*, Tong Yu, Canzhe Zhao, and Shuai Li. <br>
