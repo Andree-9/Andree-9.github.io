@@ -26,4 +26,6 @@
 * Shanghai Jiao Tong University Outstanding Undergraduate Award, 2020
 
 ## Visitors
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ace1df&w=300&t=n&d=KYawSvUri0xviH0XUuFXADAU5jT8Jz6CcEo2-YUIe20&co=ffffff&cmo=ffba4b&cmn=ffba4b&ct=ffffff'></script>
+<div style="text-align: left;">
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ace1df&w=350&t=n&d=KYawSvUri0xviH0XUuFXADAU5jT8Jz6CcEo2-YUIe20&co=ffffff&cmo=ffba4b&cmn=ffba4b&ct=ffffff'></script>
+</div>
