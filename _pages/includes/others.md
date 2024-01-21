@@ -1,9 +1,9 @@
-# 💬 Talks and Presentations
+# Talks and Presentations
 * **User-Regulation Deconfounded Conversational Recommender System with Bandit Feedback** <br>
   Conversational AI Session at KDD'23. Long Beach, CA. <br>
   [[Slides](https://andree-9.github.io/docs/kdd23_slides.pdf)]
 
-# 📖 CV
+# CV
 ## Educations
 * B.Eng. in Electrical and Computer Engineering, Shanghai Jiao Tong University, 2023
 * M.S. in Information, University of Michigan, 2024 (Expected)
