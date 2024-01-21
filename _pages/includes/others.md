@@ -5,8 +5,8 @@
 
 # CV
 ## Educations
-* B.Eng. in Electrical and Computer Engineering, **Shanghai Jiao Tong University**, 2019-2023
 * M.S. in Information, **University of Michigan**, 2022-2024 (Expected)
+* B.Eng. in Electrical and Computer Engineering, **Shanghai Jiao Tong University**, 2019-2023
 
 ## Experiences
 * Undergraduate Research Assistant, Shanghai Jiao Tong University, 2021-2023
@@ -24,3 +24,6 @@
 * Shanghai Jiao Tong University Outstanding Undergraduate Award, 2021
 * University of Michigan - Shanghai Jiao Tong University Joint Institute Yu Liming Scholarship, 2020
 * Shanghai Jiao Tong University Outstanding Undergraduate Award, 2020
+
+## Visitors
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ace1df&w=300&t=n&d=KYawSvUri0xviH0XUuFXADAU5jT8Jz6CcEo2-YUIe20&co=ffffff&cmo=ffba4b&cmn=ffba4b&ct=ffffff'></script>
