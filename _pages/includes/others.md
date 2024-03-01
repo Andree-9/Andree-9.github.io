@@ -1,6 +1,6 @@
 # Talks and Presentations
 * **User-Regulation Deconfounded Conversational Recommender System with Bandit Feedback** <br>
-  Conversational AI Session at KDD'23. Long Beach, CA. <br>
+  Conversational AI Session at KDD'23. Long Beach, CA. 
   [[Slides](https://andree-9.github.io/docs/kdd23_slides.pdf)]
 
 # CV
