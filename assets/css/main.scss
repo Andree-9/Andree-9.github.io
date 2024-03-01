@@ -108,15 +108,10 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-.fade-edge {
-    mask-image: 
-        linear-gradient(to top, rgba(0,0,0,1) 0%, transparent 100%),   /* Top edge */
-        linear-gradient(to bottom, rgba(0,0,0,1) 0%, transparent 100%), /* Bottom edge */
-        linear-gradient(to left, rgba(0,0,0,1) 0%, transparent 100%),   /* Left edge */
-        linear-gradient(to right, rgba(0,0,0,1) 0%, transparent 100%);  /* Right edge */
-    mask-size: 100% 15px, 100% 15px, 15px 100%, 15px 100%; /* Top, Bottom, Left, Right sizes */
-    mask-position: top, bottom, left, right;
-    mask-repeat: no-repeat;
+.faded-edge-image {
+  box-shadow: 0 0 8px 8px rgba(255, 255, 255, 1);
+  border-radius: 10px; /* Adjust as needed */
+  display: inline-block;
 }
 
 #clustrmaps-widget-v2 {
