@@ -3,7 +3,7 @@
 
 * **Which LLM to Play? Convergence-Aware Online Model Selection with Time-Increasing Bandits** <br>
   **Yu Xia**\*, Fang Kong\*, Tong Yu, Liya Guo, Ryan A. Rossi, Sungchul Kim, Shuai Li. <br>
-  The ACM Web Conference (**WWW**), 2024.
+  The ACM Web Conference (**WWW**) Oral, 2024.
 
 * **Towards Joint Utilization of Absolute and Relative Bandit Feedback for Conversational Recommendation** <br>
   **Yu Xia**\*, Zhihui Xie\*, Tong Yu, Canzhe Zhao, and Shuai Li. <br>
