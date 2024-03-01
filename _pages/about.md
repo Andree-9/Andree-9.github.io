@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![Head](../images/head.png)
+
 <span class='anchor' id='about-me'></span>
 {% include_relative includes/intro.md %}
 
