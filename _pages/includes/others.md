@@ -10,7 +10,7 @@
 
 ## Experiences
 * Undergraduate Research Assistant, Shanghai Jiao Tong University, 2021-2023
-  * Research Topics: Recommender Systems; Large Language Models; Reinforcement Learning; Causal Debiasing
+  * Recommender Systems; Large Language Models; Reinforcement Learning; Causal Debiasing
 * Conference Reviewer
   * RecSys'23, TheWebConf'24, NAACL'24
 
