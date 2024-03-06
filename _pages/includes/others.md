@@ -12,7 +12,7 @@
 * Undergraduate Research Assistant, Shanghai Jiao Tong University, 2021-2023
   * Recommender Systems; Large Language Models; Reinforcement Learning; Causal Debiasing
 * Conference Reviewer
-  * RecSys'23, TheWebConf'24, NAACL'24
+  * RecSys'23, WWW'24, NAACL'24
 
 ## Course Projects
 * :books: Science Fiction Text Generation [[Link](https://github.com/Andree-9/SciFiGPT)]
