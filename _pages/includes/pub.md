@@ -17,5 +17,5 @@
 
 * **The Closeness of In-Context Learning and Weight Shifting for Softmax Regression** <br>
   Shuai Li, Zhao Song, **Yu Xia**, Tong Yu, and Tianyi Zhou (*Alphabetical Order*). <br>
-  arXiv Preprint.
+  arXiv Preprint
   [[Paper](https://arxiv.org/abs/2304.13276)]
