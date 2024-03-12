@@ -6,12 +6,12 @@
 # CV
 ## Educations
 
-<img align="right" src="../../images/umich.png" width="50" height="50">
+<img align="right" src="../../images/umich.png" width="45" height="45">
 
 * **University of Michigan**, 2022-2024 (Expected) <br>
 M.S. in Information
 
-<img align="right" src="../../images/sjtu.png" width="50" height="50">
+<img align="right" src="../../images/sjtu.png" width="45" height="45">
 
 * **Shanghai Jiao Tong University**, 2019-2023 <br>
 B.Eng. in Electrical and Computer Engineering
