@@ -5,8 +5,16 @@
 
 # CV
 ## Educations
-* M.S. in Information, University of Michigan, 2022-2024 (Expected)
-* B.Eng. in Electrical and Computer Engineering, Shanghai Jiao Tong University, 2019-2023
+
+<img align="left" src="../../images/umich.png" width="50" height="50">
+
+**University of Michigan**, 2022-2024 (Expected) <br>
+M.S. in Information
+
+<img align="left" src="../../images/sjtu.png" width="50" height="50">
+
+**Shanghai Jiao Tong University**, 2019-2023 <br>
+B.Eng. in Electrical and Computer Engineering
 
 ## Experiences
 * Undergraduate Research Assistant, Shanghai Jiao Tong University, 2021-2023
