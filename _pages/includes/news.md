@@ -1,6 +1,6 @@
 # News
 
-* 03/2024 :ocean: Two papers on LLM 1) Hallucination 2) Alignment are accepted to NAACL 2024 Main Conference!
+* 03/2024 :ocean: Two papers on LLM i) Hallucination ii) Alignment are accepted to NAACL 2024 Main Conference!
 
 * 02/2024 - I will join Adobe this summer as a Research Intern, mentored by Dr. [Sungchul Kim](https://sites.google.com/site/subright/). See you in San Jose and the Bay Area!
 
