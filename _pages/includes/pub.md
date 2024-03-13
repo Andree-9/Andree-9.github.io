@@ -1,6 +1,14 @@
 
 # Publications 
 
+* **Aligning as Debiasing: Causality-Aware Alignment via Reinforcement Learning with Interventional Feedback** <br>
+  **Yu Xia**, Tong Yu, Zhankui He, Handong Zhao, Julian McAuley, Shuai Li. <br>
+  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">NAACL 2024</span>
+
+* **Hallucination Diversity-Aware Active Learning for Text Summarization** <br>
+  **Yu Xia**, Xu Liu, Tong Yu, Sungchul Kim, Ryan A. Rossi, Anup Rao, Tung Mai, Shuai Li. <br>
+  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">NAACL 2024</span>
+
 * **Which LLM to Play? Convergence-Aware Online Model Selection with Time-Increasing Bandits** <br>
   **Yu Xia**\*, Fang Kong\*, Tong Yu, Liya Guo, Ryan A. Rossi, Sungchul Kim, Shuai Li. <br>
   <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">WWW 2024 Oral</span>
