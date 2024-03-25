@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <img src="../images/sd.jpeg" alt="Head" class="faded-edge-image">
-
+ 
 <span class='anchor' id='about-me'></span>
 {% include_relative includes/intro.md %}
 
