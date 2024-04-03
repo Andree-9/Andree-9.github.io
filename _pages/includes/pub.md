@@ -8,6 +8,7 @@
 * **Hallucination Diversity-Aware Active Learning for Text Summarization** <br>
   **Yu Xia**, Xu Liu, Tong Yu, Sungchul Kim, Ryan A. Rossi, Anup Rao, Tung Mai, Shuai Li. <br>
   <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">NAACL 2024 Main</span>
+  [[Paper](https://arxiv.org/pdf/2404.01588.pdf)]
 
 * **Which LLM to Play? Convergence-Aware Online Model Selection with Time-Increasing Bandits** <br>
   **Yu Xia**\*, Fang Kong\*, Tong Yu, Liya Guo, Ryan A. Rossi, Sungchul Kim, Shuai Li. <br>
