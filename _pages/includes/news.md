@@ -1,6 +1,6 @@
 # News
 
-* 03/2024 :ocean: I will join UC San Diego from 2024 Fall as a PhD student, where I will be advised by Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/)!
+* 03/2024 :ocean: I will join UC San Diego from 2024 Fall as a PhD student, where I will be working with Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/)!
 
 * 03/2024 :ocean: Two papers on LLM i) Hallucination ii) Alignment are accepted to NAACL 2024 Main Conference!
 
