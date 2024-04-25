@@ -25,8 +25,11 @@
   <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">KDD 2023</span> 
   [[Paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599539)] [[Video](https://www.youtube.com/watch?v=1dPwslX2fO8)] [[Slides](https://andree-9.github.io/docs/kdd23_slides.pdf)]
 
-
 arXiv Preprints
+* **Beyond Chain-of-Thought: A Survey of Chain-of-X Paradigms for LLMs** <br>
+  **Yu Xia**, Rui Wang, Xu Liu, Mingyan Li, Tong Yu, Xiang Chen, Julian McAuley, Shuai Li. <br>
+  [[Paper](https://arxiv.org/pdf/2404.15676.pdf)]
+
 * **The Closeness of In-Context Learning and Weight Shifting for Softmax Regression** <br>
   Shuai Li, Zhao Song, **Yu Xia**, Tong Yu, Tianyi Zhou (*Alphabetical Order*). <br>
   [[Paper](https://arxiv.org/pdf/2304.13276.pdf)]
