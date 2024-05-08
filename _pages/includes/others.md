@@ -6,7 +6,7 @@
 # CV
 ## Educations
 
-* **University of Michigan**, 2022-2024 (Expected) <br>
+* **University of Michigan**, 2022-2024 <br>
 M.S. in Information
 
 * **Shanghai Jiao Tong University**, 2019-2023 <br>
