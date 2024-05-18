@@ -13,7 +13,7 @@
 * **Which LLM to Play? Convergence-Aware Online Model Selection with Time-Increasing Bandits** <br>
   **Yu Xia**\*, Fang Kong\*, Tong Yu, Liya Guo, Ryan A. Rossi, Sungchul Kim, Shuai Li. <br>
   <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">WWW 2024 Oral</span>
-  [[Paper](https://arxiv.org/pdf/2403.07213.pdf)] [[Video](https://www.youtube.com/watch?v=KDf_RK2LaYM)]
+  [[Paper](https://arxiv.org/pdf/2403.07213.pdf)]
 
 * **Towards Joint Utilization of Absolute and Relative Bandit Feedback for Conversational Recommendation** <br>
   **Yu Xia**\*, Zhihui Xie\*, Tong Yu, Canzhe Zhao, Shuai Li. <br>
@@ -23,7 +23,7 @@
 * **User-Regulation Deconfounded Conversational Recommender System with Bandit Feedback** <br>
   **Yu Xia**, Junda Wu, Tong Yu, Sungchul Kim, Ryan A. Rossi, Shuai Li. <br>
   <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">KDD 2023</span> 
-  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599539)] [[Video](https://www.youtube.com/watch?v=1dPwslX2fO8)] [[Slides](https://andree-9.github.io/docs/kdd23_slides.pdf)]
+  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599539)]
 
 arXiv Preprints
 * **Beyond Chain-of-Thought: A Survey of Chain-of-X Paradigms for LLMs** <br>
