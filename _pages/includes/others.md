@@ -1,10 +1,17 @@
 # Talks and Presentations
+* **Which LLM to Play? Convergence-Aware Online Model Selection with Time-Increasing Bandits** <br>
+  Web Mining Session at WWW'24, Singapore. 
+  [[Slides](https://andree-9.github.io/docs/www24_slides.pdf)]
+
 * **User-Regulation Deconfounded Conversational Recommender System with Bandit Feedback** <br>
-  Conversational AI Session at KDD'23. Long Beach, CA. 
+  Conversational AI Session at KDD'23, Long Beach, CA. 
   [[Slides](https://andree-9.github.io/docs/kdd23_slides.pdf)]
 
 # CV
 ## Educations
+
+* **University of California San Diego**, 2024-Now <br>
+Ph.D. in Computer Science and Engineering
 
 * **University of Michigan**, 2022-2024 <br>
 M.S. in Information
@@ -13,10 +20,12 @@ M.S. in Information
 B.Eng. in Electrical and Computer Engineering
 
 ## Experiences
-* Undergraduate Research Assistant, Shanghai Jiao Tong University, 2021-2023
-  * Recommender Systems; Large Language Models; Reinforcement Learning; Causal Debiasing
+* Research Intern, Adobe Research, 2024
+  * Large Language Models
 * Conference Reviewer
   * RecSys'23, WWW'24, NAACL'24
+* Conference Volunteer
+  * NAACL'24
 
 ## Course Projects
 * :books: Science Fiction Text Generation [[Link](https://github.com/Andree-9/SciFiGPT)]
