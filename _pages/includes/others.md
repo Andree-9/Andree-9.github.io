@@ -20,8 +20,8 @@ M.S. in Information
 B.Eng. in Electrical and Computer Engineering
 
 ## Experiences
-* Research Intern, Adobe Research, 2024
-  * Large Language Models
+* Research Intern
+  * Adobe Research 2024 Summer
 * Conference Reviewer
   * RecSys'23, WWW'24, NAACL'24
 * Conference Volunteer
