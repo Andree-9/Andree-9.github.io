@@ -20,8 +20,8 @@ M.S. in Information
 B.Eng. in Electrical and Computer Engineering
 
 ## Experiences
-* Research Intern
-  * Adobe Research 2024 Summer
+* Research Scientist Intern
+  * Adobe'24 (Mentored by Dr. [Sungchul Kim](https://sites.google.com/site/subright/))
 * Conference Reviewer
   * RecSys'23, WWW'24, NAACL'24
 * Conference Volunteer
