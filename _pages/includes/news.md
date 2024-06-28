@@ -1,7 +1,3 @@
 # News
 
-* 05/2024 :sunny: I will be presenting at WWW 2024. See you in Singapore!
-
-* 03/2024 :ocean: Two papers on LLM i) Hallucination ii) Alignment are accepted to NAACL 2024!
-
-* 02/2024 :ocean: I will join Adobe this summer as a Research Intern, mentored by Dr. [Sungchul Kim](https://sites.google.com/site/subright/). See you in San Jose and the Bay Area!
+* 06/2024 :ocean: Started my internship at Adobe Research and feeling good :sunglasses:! 
