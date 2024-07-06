@@ -10,13 +10,13 @@
 # CV
 ## Educations
 
-* **University of California San Diego**, 2024-Now <br>
+* :trident: **University of California San Diego**, 2024-Now <br>
 Ph.D. in Computer Science and Engineering
 
-* **University of Michigan**, 2022-2024 <br>
+* :part_alternation_mark: **University of Michigan**, 2022-2024 <br>
 M.S. in Information
 
-* **Shanghai Jiao Tong University**, 2019-2023 <br>
+* 🦶 **Shanghai Jiao Tong University**, 2019-2023 <br>
 B.Eng. in Electrical and Computer Engineering
 
 ## Experiences
