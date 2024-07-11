@@ -21,7 +21,7 @@ B.Eng. in Electrical and Computer Engineering
 
 ## Experiences
 * Research Scientist Intern
-  * Adobe'24 (Mentored by Dr. [Sungchul Kim](https://sites.google.com/site/subright/))
+  * Adobe'24
 * Conference Reviewer
   * RecSys'23, WWW'24, NAACL'24
 * Conference Volunteer
