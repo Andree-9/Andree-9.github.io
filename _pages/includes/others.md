@@ -1,7 +1,7 @@
 # Presentations
 * **Which LLM to Play? Convergence-Aware Online Model Selection with Time-Increasing Bandits** <br>
   Web Mining Session at WWW'24, Singapore. 
-  [[Poster](https://andree-9.github.io/docs/www24_poster.pdf)] [[Slides](https://andree-9.github.io/docs/www24_slides.pdf)]
+  [[Poster](https://andree-9.github.io/docs/www24_poster.pdf)] [[Slides](https://andree-9.github.io/docs/www24_slides.pdf)] [[Video](https://www.youtube.com/watch?v=lG7B_QxbZ2Q&list=PL_4c34HZDoN6Ysc_Xw1V3V-M9KESB9bJ9&index=197)]
 
 * **User-Regulation Deconfounded Conversational Recommender System with Bandit Feedback** <br>
   Conversational AI Session at KDD'23, Long Beach, CA. 
