@@ -29,7 +29,7 @@
 arXiv Preprints
 * **Beyond Chain-of-Thought: A Survey of Chain-of-X Paradigms for LLMs** <br>
   **Yu Xia**, Rui Wang, Xu Liu, Mingyan Li, Tong Yu, Xiang Chen, Julian McAuley, Shuai Li. <br>
-  [[Paper](https://arxiv.org/pdf/2404.15676.pdf)]
+  [[Paper](https://arxiv.org/pdf/2404.15676v2.pdf)]
 
 * **The Closeness of In-Context Learning and Weight Shifting for Softmax Regression** <br>
   Shuai Li, Zhao Song, **Yu Xia**, Tong Yu, Tianyi Zhou (*Alphabetical Order*). <br>
