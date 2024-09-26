@@ -1,6 +1,11 @@
 
 # Publications 
 
+* **The Closeness of In-Context Learning and Weight Shifting for Softmax Regression** <br>
+  (*Alphabetical Order*) Shuai Li, Zhao Song, **Yu Xia**, Tong Yu, Tianyi Zhou. <br>
+  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">NeurIPS 2024</span>
+  [[arXiv](https://arxiv.org/pdf/2304.13276.pdf)]
+
 * **Aligning as Debiasing: Causality-Aware Alignment via Reinforcement Learning with Interventional Feedback** <br>
   **Yu Xia**, Tong Yu, Zhankui He, Handong Zhao, Julian McAuley, Shuai Li. <br>
   <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">NAACL 2024</span>
@@ -29,8 +34,12 @@
 arXiv Preprints
 * **Beyond Chain-of-Thought: A Survey of Chain-of-X Paradigms for LLMs** <br>
   **Yu Xia**, Rui Wang, Xu Liu, Mingyan Li, Tong Yu, Xiang Chen, Julian McAuley, Shuai Li. <br>
-  [[Paper](https://arxiv.org/pdf/2404.15676v2.pdf)]
+  [[arXiv](https://arxiv.org/pdf/2404.15676v2.pdf)]
 
-* **The Closeness of In-Context Learning and Weight Shifting for Softmax Regression** <br>
-  (*Alphabetical Order*) Shuai Li, Zhao Song, **Yu Xia**, Tong Yu, Tianyi Zhou. <br>
-  [[Paper](https://arxiv.org/pdf/2304.13276.pdf)]
+* **Visual Prompting in Multimodal Large Language Models: A Survey** <br>
+  Junda Wu, Zhehao Zhang, **Yu Xia**, Xintong Li, Zhaoyang Xia, Aaron Chang, Tong Yu, Sungchul Kim, Ryan A. Rossi, Ruiyi Zhang, Subrata Mitra, Dimitris N. Metaxas, Lina Yao, Jingbo Shang, Julian McAuley. <br>
+  [[arXiv](https://www.arxiv.org/pdf/2409.15310)]
+
+* **Federated Large Language Models: Current Progress and Future Directions** <br>
+  Yuhang Yao, Jianyi Zhang, Junda Wu, Chengkai Huang, **Yu Xia**, Tong Yu, Ruiyi Zhang, Sungchul Kim, Ryan Rossi, Ang Li, Lina Yao, Julian McAuley, Yiran Chen, Carlee Joe-Wong. <br>
+  [[arXiv](https://www.arxiv.org/pdf/2409.15723)]
