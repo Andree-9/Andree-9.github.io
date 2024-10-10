@@ -28,10 +28,10 @@ B.Eng. in Electrical and Computer Engineering
   * NAACL'24
 
 ## Interesting Projects
-* :books: Science Fiction Text Generation [[Link](https://github.com/Andree-9/SciFiGPT)]
-* :beer: Beer Recommender System [[Link](https://github.com/Andree-9/BeerRec/)]
 * :milky_way: FLEE [[Game Link](https://andree-9.github.io/FLEE/)] [[Code](https://github.com/Andree-9/FLEE)]: An interactive web game of an intersteller journey!
 * 🕵️ A Study in Red [[Link](https://d1b10bmlvqabco.cloudfront.net/attach/k6h5x3ba2bj6l2/k6hx2hm5whe43e/k9m4xl4m9wqy/A_Study_in_Red.html)]: A funny interative fanfiction of Sherlock Holmes that I have no idea when I wrote it!
+* :books: Science Fiction Text Generation [[Link](https://github.com/Andree-9/SciFiGPT)]
+* :beer: Beer Recommender System [[Link](https://github.com/Andree-9/BeerRec/)]
 
 ## Awards
 * University of Michigan - Shanghai Jiao Tong University Joint Institute Yu Liming Scholarship, 2021
