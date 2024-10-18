@@ -1,5 +1,5 @@
 
-# Publications 
+# Selected Publications 
 
 * **The Closeness of In-Context Learning and Weight Shifting for Softmax Regression** <br>
   (*Alphabetical Order*) Shuai Li, Zhao Song, **Yu Xia**, Tong Yu, Tianyi Zhou. <br>
@@ -32,14 +32,11 @@
   [[Paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599539)]
 
 arXiv Preprints
+* **Knowledge-Aware Query Expansion with Large Language Models for Textual and Relational Retrieval** <br>
+  **Yu Xia**, Junda Wu, Sungchul Kim, Tong Yu, Ryan A. Rossi, Haoliang Wang, Julian McAuley. <br>
+  [[arXiv](https://arxiv.org/pdf/2410.13765)]
+
 * **Beyond Chain-of-Thought: A Survey of Chain-of-X Paradigms for LLMs** <br>
   **Yu Xia**, Rui Wang, Xu Liu, Mingyan Li, Tong Yu, Xiang Chen, Julian McAuley, Shuai Li. <br>
   [[arXiv](https://arxiv.org/pdf/2404.15676v2.pdf)]
 
-* **Visual Prompting in Multimodal Large Language Models: A Survey** <br>
-  Junda Wu, Zhehao Zhang, **Yu Xia**, Xintong Li, Zhaoyang Xia, Aaron Chang, Tong Yu, Sungchul Kim, Ryan A. Rossi, Ruiyi Zhang, Subrata Mitra, Dimitris N. Metaxas, Lina Yao, Jingbo Shang, Julian McAuley. <br>
-  [[arXiv](https://www.arxiv.org/pdf/2409.15310)]
-
-* **Federated Large Language Models: Current Progress and Future Directions** <br>
-  Yuhang Yao, Jianyi Zhang, Junda Wu, Chengkai Huang, **Yu Xia**, Tong Yu, Ruiyi Zhang, Sungchul Kim, Ryan Rossi, Ang Li, Lina Yao, Julian McAuley, Yiran Chen, Carlee Joe-Wong. <br>
-  [[arXiv](https://www.arxiv.org/pdf/2409.15723)]
