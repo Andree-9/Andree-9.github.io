@@ -34,9 +34,9 @@ B.Eng. in Electrical and Computer Engineering
 * :beer: Beer Recommender System [[Link](https://github.com/Andree-9/BeerRec/)]
 
 ## Awards
-* University of Michigan - Shanghai Jiao Tong University Joint Institute Yu Liming Scholarship, 2021
+* University of Michigan - Shanghai Jiao Tong University Yu Liming Scholarship, 2021
 * Shanghai Jiao Tong University Outstanding Undergraduate Award, 2021
-* University of Michigan - Shanghai Jiao Tong University Joint Institute Yu Liming Scholarship, 2020
+* University of Michigan - Shanghai Jiao Tong University Yu Liming Scholarship, 2020
 * Shanghai Jiao Tong University Outstanding Undergraduate Award, 2020
 
 ## Visitors
