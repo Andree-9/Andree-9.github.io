@@ -21,7 +21,7 @@ B.Eng. in Electrical and Computer Engineering
 
 ## Experiences
 * Research Scientist Intern
-  * Adobe 2024.6-Now (Mentor: Dr. [Sungchul Kim](https://sites.google.com/site/subright/))
+  * Adobe 2024 Summer (Mentor: Dr. [Sungchul Kim](https://sites.google.com/site/subright/))
 * Conference Reviewer
   * RecSys'23, WWW'24, NAACL'24, COLING'25, WWW'25, NAACL'25
 * Conference Volunteer
