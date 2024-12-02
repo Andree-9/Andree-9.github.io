@@ -1,5 +1,5 @@
 
-# Publications 
+# Peer-Reviewed Publications 
 
 * **The Closeness of In-Context Learning and Weight Shifting for Softmax Regression** <br>
   (*Alphabetical Order*) Shuai Li, Zhao Song, **Yu Xia**, Tong Yu, Tianyi Zhou. <br>
