@@ -110,7 +110,7 @@ h1:before, .anchor:before {
 
 .faded-edge-image {
     /* Adjust the position of the transparent color stop to control the spread of the fade */
-    mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 60%, rgba(0,0,0,0));
+    mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 80%, rgba(0,0,0,0));
 }
 
 #clustrmaps-widget-v2 {
