@@ -1,5 +1,25 @@
 
-# Peer-Reviewed Publications 
+# Selected Publications 
+
+* **Knowledge-Aware Query Expansion with Large Language Models for Textual and Relational Retrieval** <br>
+  **Yu Xia**, Junda Wu, Sungchul Kim, Tong Yu, Ryan A Rossi, Haoliang Wang, Julian McAuley. <br>
+  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">NAACL 2025</span>
+  [[Paper](https://arxiv.org/pdf/2410.13765?)]
+
+* **OCEAN: Offline Chain-of-thought Evaluation and Alignment in Large Language Models** <br>
+  Junda Wu, Xintong Li, Ruoyu Wang, **Yu Xia**, Yuxin Xiong, Jianing Wang, Tong Yu, Xiang Chen, Branislav Kveton, Lina Yao, Jingbo Shang, Julian McAuley. <br>
+  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">ICLR 2025</span>
+  [[Paper](https://arxiv.org/pdf/2410.23703)]
+
+* **Beyond Chain-of-Thought: A Survey of Chain-of-X Paradigms for LLMs** <br>
+  **Yu Xia**, Rui Wang, Xu Liu, Mingyan Li, Tong Yu, Xiang Chen, Julian McAuley, Shuai Li. <br>
+  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">COLING 2025</span>
+  [[Paper](https://aclanthology.org/2025.coling-main.719.pdf)]
+
+* **Embedding-Informed Adaptive Retrieval-Augmented Generation of Large Language Models** <br>
+  Chengkai Huang, **Yu Xia**, Rui Wang, Kaige Xie, Tong Yu, Julian McAuley, Lina Yao. <br>
+  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">COLING 2025</span>
+  [[Paper](https://aclanthology.org/2025.coling-main.94.pdf)]
 
 * **The Closeness of In-Context Learning and Weight Shifting for Softmax Regression** <br>
   (*Alphabetical Order*) Shuai Li, Zhao Song, **Yu Xia**, Tong Yu, Tianyi Zhou. <br>
