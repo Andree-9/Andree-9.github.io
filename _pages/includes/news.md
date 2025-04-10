@@ -1,3 +1,3 @@
 # News
 
-* 01/2025 :ocean:: Papers accepted to COLING 2025, ICLR 2025, and NAACL 2025! 
+* 04/2025 :ocean:: I will attend NAACL 2025 to present our paper! See you in Albuquerque, New Mexico!
