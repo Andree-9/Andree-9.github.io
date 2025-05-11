@@ -4,7 +4,7 @@
 * **Knowledge-Aware Query Expansion with Large Language Models for Textual and Relational Retrieval** <br>
   **Yu Xia**, Junda Wu, Sungchul Kim, Tong Yu, Ryan A Rossi, Haoliang Wang, Julian McAuley. <br>
   <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">NAACL 2025</span>
-  [[Paper](https://arxiv.org/pdf/2410.13765?)]
+  [[Paper](https://aclanthology.org/2025.naacl-long.216.pdf)]
 
 * **OCEAN: Offline Chain-of-thought Evaluation and Alignment in Large Language Models** <br>
   Junda Wu, Xintong Li, Ruoyu Wang, **Yu Xia**, Yuxin Xiong, Jianing Wang, Tong Yu, Xiang Chen, Branislav Kveton, Lina Yao, Jingbo Shang, Julian McAuley. <br>
