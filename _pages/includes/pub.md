@@ -1,6 +1,15 @@
 
 # Selected Publications 
 
+* **From Selection to Generation: A Survey of LLM-based Active Learning** <br>
+  **Yu Xia**\*, Subhojyoti Mukherjee\*, Zhouhang Xie, Junda Wu, Xintong Li, Ryan Aponte, Hanjia Lyu, Joe Barrow, Hongjie Chen, Franck Dernoncourt, Branislav Kveton, Tong Yu, Ruiyi Zhang, Jiuxiang Gu, Nesreen K Ahmed, Yu Wang, Xiang Chen, Hanieh Deilamsalehy, Sungchul Kim, Zhengmian Hu, Yue Zhao, Nedim Lipka, Seunghyun Yoon, Ting-Hao Kenneth Huang, Zichao Wang, Puneet Mathur, Soumyabrata Pal, Koyel Mukherjee, Zhehao Zhang, Namyong Park, Thien Huu Nguyen, Jiebo Luo, Ryan A Rossi, Julian McAuley. <br>
+  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">ACL 2025</span>
+  [[Paper](https://arxiv.org/pdf/2502.11767?)]
+
+* **Doc-React: Multi-page Heterogeneous Document Question-answering** <br>
+  Junda Wu, **Yu Xia**, Tong Yu, Xiang Chen, Sai Sree Harsha, Akash V Maharaj, Ruiyi Zhang, Victor Bursztyn, Sungchul Kim, Ryan A. Rossi, Julian McAuley, Yunyao Li, Ritwik Sinha. <br>
+  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">ACL 2025</span>
+
 * **Knowledge-Aware Query Expansion with Large Language Models for Textual and Relational Retrieval** <br>
   **Yu Xia**, Junda Wu, Sungchul Kim, Tong Yu, Ryan A Rossi, Haoliang Wang, Julian McAuley. <br>
   <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">NAACL 2025</span>
