@@ -1,4 +1,9 @@
 # Presentations
+
+* **Knowledge-Aware Query Expansion with Large Language Models for Textual and Relational Retrieval** <br>
+  Information Retrieval and Text Mining Session at NAACL'25, Albuquerque, NM. 
+  [[Poster](https://andree-9.github.io/docs/naacl25_poster.pdf)]
+
 * **Which LLM to Play? Convergence-Aware Online Model Selection with Time-Increasing Bandits** <br>
   Web Mining Session at WWW'24, Singapore. 
   [[Poster](https://andree-9.github.io/docs/www24_poster.pdf)] [[Slides](https://andree-9.github.io/docs/www24_slides.pdf)] [[Video](https://www.youtube.com/watch?v=lG7B_QxbZ2Q&list=PL_4c34HZDoN6Ysc_Xw1V3V-M9KESB9bJ9&index=197)]
