@@ -15,11 +15,6 @@
   <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">NAACL 2025</span>
   [[Paper](https://aclanthology.org/2025.naacl-long.216.pdf)]
 
-* **OCEAN: Offline Chain-of-thought Evaluation and Alignment in Large Language Models** <br>
-  Junda Wu, Xintong Li, Ruoyu Wang, **Yu Xia**, Yuxin Xiong, Jianing Wang, Tong Yu, Xiang Chen, Branislav Kveton, Lina Yao, Jingbo Shang, Julian McAuley. <br>
-  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">ICLR 2025</span>
-  [[Paper](https://openreview.net/pdf?id=rlgplAuN2p)]
-
 * **Beyond Chain-of-Thought: A Survey of Chain-of-X Paradigms for LLMs** <br>
   **Yu Xia**, Rui Wang, Xu Liu, Mingyan Li, Tong Yu, Xiang Chen, Julian McAuley, Shuai Li. <br>
   <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">COLING 2025</span>
