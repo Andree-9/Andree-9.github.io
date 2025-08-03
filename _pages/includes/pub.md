@@ -1,5 +1,5 @@
 
-# Selected Publications [[Full List](https://scholar.google.com/citations?hl=en&user=sTVqEUMAAAAJ&view_op=list_works)]
+# Selected Publications 
 
 * **SAND: Boosting LLM Agents with Self-Taught Action Deliberation** <br>
   **Yu Xia**, Yiran Shen, Junda Wu, Tong Yu, Sungchul Kim, Ryan A. Rossi, Lina Yao, Julian McAuley. <br>
