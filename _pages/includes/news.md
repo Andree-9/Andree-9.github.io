@@ -1,3 +1,3 @@
 # News
 
-* 06/2025 :ocean:: I will join Adobe again this summer as a Research Intern, mentored by Dr. [Sungchul Kim](https://sites.google.com/site/subright/)! See you in San Jose and Bay Area!
+* 08/2025 :ocean:: Our LLM agent tuning framework [SAND](https://arxiv.org/pdf/2507.07441)🏖️ is accepted to EMNLP 2025 Main Conference! SAND🏖️ enables LLM agents to teach themselves when and how to reason deliberatively for difficult tasks. See you (likely) in Suzhou!
