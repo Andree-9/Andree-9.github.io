@@ -50,9 +50,6 @@ B.Eng. in Electrical and Computer Engineering
 
 ## Full Publication List
 
-<details>
-  <summary>Click to expand</summary>
-
 * **SAND: Boosting LLM Agents with Self-Taught Action Deliberation** <br>
   **Yu Xia**, Yiran Shen, Junda Wu, Tong Yu, Sungchul Kim, Ryan A. Rossi, Lina Yao, Julian McAuley. <br>
   <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">EMNLP 2025</span>
@@ -137,4 +134,3 @@ B.Eng. in Electrical and Computer Engineering
   <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">KDD 2023</span> 
   [[Paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599539)]
 
-</details>
