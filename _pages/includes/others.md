@@ -26,8 +26,9 @@ B.Eng. in Electrical and Computer Engineering
 
 ## Experiences
 * Research Scientist Intern
-  * Adobe Research '25 Jun.-Sep. (Mentor: Dr. [Sungchul Kim](https://sites.google.com/site/subright/))
-  * Adobe Research '24 Jun.-Nov. (Mentor: Dr. [Sungchul Kim](https://sites.google.com/site/subright/))
+  * ❄️ **Snowflake AI Research** '25 Sep.-Now (Mentor: Dr. [Canwei Xu](https://www.canwenxu.net/))
+  * 🅰️ **Adobe Research** '25 Jun.-Sep. (Mentor: Dr. [Sungchul Kim](https://sites.google.com/site/subright/))
+  * 🅰️ **Adobe Research** '24 Jun.-Nov. (Mentor: Dr. [Sungchul Kim](https://sites.google.com/site/subright/))
 * Conference Reviewer
   * RecSys'23, WWW'24, NAACL'24, COLING'25, WWW'25, NAACL'25, ACL'25, EMNLP'25
 * Conference Volunteer
