@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="../images/head_lajolla.jpg" alt="Head" class="faded-edge-image">
+<img src="../images/head_big_island.png" alt="Head" class="faded-edge-image">
  
 <span class='anchor' id='about-me'></span>
 {% include_relative includes/intro.md %}
