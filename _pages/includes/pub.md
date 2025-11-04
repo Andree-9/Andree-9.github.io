@@ -4,7 +4,7 @@
 * **SAND: Boosting LLM Agents with Self-Taught Action Deliberation** <br>
   **Yu Xia**, Yiran Shen, Junda Wu, Tong Yu, Sungchul Kim, Ryan A. Rossi, Lina Yao, Julian McAuley. <br>
   <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">EMNLP 2025</span>
-  [[Paper](https://arxiv.org/pdf/2507.07441)]
+  [[Paper](https://aclanthology.org/2025.emnlp-main.152.pdf)]
 
 * **From Selection to Generation: A Survey of LLM-based Active Learning** <br>
   **Yu Xia**\*, Subhojyoti Mukherjee\*, Zhouhang Xie, Junda Wu, Xintong Li, Ryan Aponte, Hanjia Lyu, Joe Barrow, Hongjie Chen, Franck Dernoncourt, Branislav Kveton, Tong Yu, Ruiyi Zhang, Jiuxiang Gu, Nesreen K Ahmed, Yu Wang, Xiang Chen, Hanieh Deilamsalehy, Sungchul Kim, Zhengmian Hu, Yue Zhao, Nedim Lipka, Seunghyun Yoon, Ting-Hao Kenneth Huang, Zichao Wang, Puneet Mathur, Soumyabrata Pal, Koyel Mukherjee, Zhehao Zhang, Namyong Park, Thien Huu Nguyen, Jiebo Luo, Ryan A. Rossi, Julian McAuley. <br>
