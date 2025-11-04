@@ -57,7 +57,7 @@ B.Eng. in Electrical and Computer Engineering
 * **SAND: Boosting LLM Agents with Self-Taught Action Deliberation** <br>
   **Yu Xia**, Yiran Shen, Junda Wu, Tong Yu, Sungchul Kim, Ryan A. Rossi, Lina Yao, Julian McAuley. <br>
   <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">EMNLP 2025</span>
-  [[Paper](https://arxiv.org/pdf/2507.07441)]
+  [[Paper](https://aclanthology.org/2025.emnlp-main.152.pdf)]
 
 * **Mitigating Visual Knowledge Forgetting in MLLM Instruction-tuning via Modality-decoupled Gradient Descent** <br>
   Junda Wu, Yuxin Xiong, Xintong Li, **Yu Xia**, Ruoyu Wang, Yu Wang, Tong Yu, Sungchul Kim, Ryan A Rossi, Lina Yao, Jingbo Shang, Julian McAuley. <br>
