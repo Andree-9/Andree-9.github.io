@@ -1,5 +1,9 @@
 # Presentations
 
+* **SAND: Boosting LLM Agents with Self-Taught Action Deliberation** <br>
+  AI / LLM Agents Session at EMNLP'25, Suzhou.
+  [[Poster](https://andree-9.github.io/docs/emnlp25_poster.pdf)]
+
 * **Knowledge-Aware Query Expansion with Large Language Models for Textual and Relational Retrieval** <br>
   Information Retrieval and Text Mining Session at NAACL'25, Albuquerque, NM. 
   [[Poster](https://andree-9.github.io/docs/naacl25_poster.pdf)]
