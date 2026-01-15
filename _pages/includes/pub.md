@@ -1,6 +1,11 @@
 
 # Selected Publications 
 
+* **Multi-Agent Collaborative Filtering: Orchestrating Users and Items for Agentic Recommendations** <br>
+  **Yu Xia**, Sungchul Kim, Tong Yu, Ryan A. Rossi, Julian McAuley. <br>
+  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">WWW 2026</span>
+  [[Paper](https://arxiv.org/pdf/2511.18413)]
+
 * **SAND: Boosting LLM Agents with Self-Taught Action Deliberation** <br>
   **Yu Xia**, Yiran Shen, Junda Wu, Tong Yu, Sungchul Kim, Ryan A. Rossi, Lina Yao, Julian McAuley. <br>
   <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">EMNLP 2025</span>
