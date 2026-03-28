@@ -96,12 +96,19 @@ $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
 
-/* links */
+/* links
 $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$masthead-link-color-hover  : mix(#000, $primary-color, 25%); */
+
+$link-color: teal;
+$link-color-hover: darken(teal, 10%);
+$link-color-visited: darken(teal, 5%);
+
+$masthead-link-color: teal;
+$masthead-link-color-hover: darken(teal, 10%);
 
 
 /*
