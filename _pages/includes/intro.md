@@ -1,6 +1,6 @@
 # About Me
 
-Hi~ I am Yu Xia (夏羽), a 2nd-year CSE PhD student at [University of California San Diego](https://cse.ucsd.edu/), where I am working with Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) on **Large Language Models** and **Recommender Systems**. 
+Hi~🍹 I am Yu Xia (夏羽), a 2nd-year CSE PhD student at [University of California San Diego](https://cse.ucsd.edu/), where I am working with Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) on **Large Language Models** and **Recommender Systems**. 
 
 I earned my bachelor's degree from [Shanghai Jiao Tong University](https://gc.sjtu.edu.cn/) and master's degree from [University of Michigan](https://www.si.umich.edu/). I have previously interned at [Snowflake](https://www.snowflake.com/en/product/ai/ai-research/) and [Adobe](https://research.adobe.com/).
 
