@@ -60,96 +60,96 @@ B.Eng. in Electrical and Computer Engineering
 
 * **Multi-Agent Collaborative Filtering: Orchestrating Users and Items for Agentic Recommendations** <br>
   **Yu Xia**, Sungchul Kim, Tong Yu, Ryan A. Rossi, Julian McAuley. <br>
-  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">WWW 2026</span>
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">WWW 2026</span>
   [[Paper](https://arxiv.org/pdf/2511.18413)]
 
 * **Large Language Models for Conversational User Simulation: A Comprehensive Survey** <br>
   Bo Ni, Leyao Wang, Yu Wang, Branislav Kveton, Franck Dernoncourt, **Yu Xia**, Hongjie Chen, Reuben Leura, Samyadeep Basu, Subhojyoti Mukherjee, Puneet Mathur, Nesreen Ahmed, Junda Wu, Li Li, Huixin Zhang, Ruiyi Zhang, Tong Yu, Sungchul Kim, Jiuxiang Gu, Zhengzhong Tu, Alexa Siu, Zichao Wang, David Seunghyun Yoon, Nedim Lipka, Namyong Park, Zihao Lin, Trung Bui, Yue Zhao, Tyler Derr, Ryan A. Rossi. <br>
-  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">EACL 2026</span>
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">EACL 2026</span>
   [[Paper](https://hal.science/hal-05217179v1/document)]
 
 * **SAND: Boosting LLM Agents with Self-Taught Action Deliberation** <br>
   **Yu Xia**, Yiran Shen, Junda Wu, Tong Yu, Sungchul Kim, Ryan A. Rossi, Lina Yao, Julian McAuley. <br>
-  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">EMNLP 2025</span>
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">EMNLP 2025</span>
   [[Paper](https://aclanthology.org/2025.emnlp-main.152.pdf)]
 
 * **Mitigating Visual Knowledge Forgetting in MLLM Instruction-tuning via Modality-decoupled Gradient Descent** <br>
   Junda Wu, Yuxin Xiong, Xintong Li, **Yu Xia**, Ruoyu Wang, Yu Wang, Tong Yu, Sungchul Kim, Ryan A Rossi, Lina Yao, Jingbo Shang, Julian McAuley. <br>
-  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">EMNLP 2025 Findings</span>
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">EMNLP 2025 Findings</span>
   [[Paper](https://arxiv.org/pdf/2502.11740)]
 
 * **In-context Ranking Preference Optimization** <br>
   Junda Wu, Rohan Surana, Zhouhang Xie, Yiran Shen, **Yu Xia**, Tong Yu, Ryan A Rossi, Prithviraj Ammanabrolu, Julian McAuley. <br>
-  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">COLM 2025</span>
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">COLM 2025</span>
   [[Paper](https://arxiv.org/pdf/2504.15477)]
 
 * **A Survey on Personalized and Pluralistic Preference Alignment in Large Language Models** <br>
   Zhouhang Xie, Junda Wu, Yiran Shen, **Yu Xia**, Xintong Li, Aaron Chang, Ryan Rossi, Sachin Kumar, Bodhisattwa Prasad Majumder, Jingbo Shang, Prithviraj Ammanabrolu, Julian McAuley. <br>
-  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">COLM 2025</span>
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">COLM 2025</span>
   [[Paper](https://arxiv.org/pdf/2504.07070?)]
 
 * **From Selection to Generation: A Survey of LLM-based Active Learning** <br>
   **Yu Xia**\*, Subhojyoti Mukherjee\*, Zhouhang Xie, Junda Wu, Xintong Li, Ryan Aponte, Hanjia Lyu, Joe Barrow, Hongjie Chen, Franck Dernoncourt, Branislav Kveton, Tong Yu, Ruiyi Zhang, Jiuxiang Gu, Nesreen K Ahmed, Yu Wang, Xiang Chen, Hanieh Deilamsalehy, Sungchul Kim, Zhengmian Hu, Yue Zhao, Nedim Lipka, Seunghyun Yoon, Ting-Hao Kenneth Huang, Zichao Wang, Puneet Mathur, Soumyabrata Pal, Koyel Mukherjee, Zhehao Zhang, Namyong Park, Thien Huu Nguyen, Jiebo Luo, Ryan A. Rossi, Julian McAuley. <br>
-  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">ACL 2025</span>
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">ACL 2025</span>
   [[Paper](https://aclanthology.org/2025.acl-long.708.pdf)]
 
 * **Doc-React: Multi-page Heterogeneous Document Question-answering** <br>
   Junda Wu, **Yu Xia**, Tong Yu, Xiang Chen, Sai Sree Harsha, Akash V Maharaj, Ruiyi Zhang, Victor Bursztyn, Sungchul Kim, Ryan A Rossi, Julian McAuley, Yunyao Li, Ritwik Sinha. <br>
-  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">ACL 2025</span>
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">ACL 2025</span>
   [[Paper](https://aclanthology.org/2025.acl-short.6.pdf)]
 
 * **GUI Agents: A Survey** <br>
   Dang Nguyen, Jian Chen, Yu Wang, Gang Wu, Namyong Park, Zhengmian Hu, Hanjia Lyu, Junda Wu, Ryan Aponte, **Yu Xia**, Xintong Li, Jing Shi, Hongjie Chen, Viet Dac Lai, Zhouhang Xie, Sungchul Kim, Ruiyi Zhang, Tong Yu, Mehrab Tanjim, Nesreen K Ahmed, Puneet Mathur, Seunghyun Yoon, Lina Yao, Branislav Kveton, Thien Huu Nguyen, Trung Bui, Tianyi Zhou, Ryan A Rossi, Franck Dernoncourt. <br>
-  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">ACL 2025 Findings</span>
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">ACL 2025 Findings</span>
   [[Paper](https://aclanthology.org/2025.findings-acl.1158.pdf)]
 
 * **OCEAN: Offline Chain-of-thought Evaluation and Alignment in Large Language Models** <br>
   Junda Wu, Xintong Li, Ruoyu Wang, **Yu Xia**, Yuxin Xiong, Jianing Wang, Tong Yu, Xiang Chen, Branislav Kveton, Lina Yao, Jingbo Shang, Julian McAuley. <br>
-  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">ICLR 2025</span>
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">ICLR 2025</span>
   [[Paper](https://openreview.net/pdf?id=rlgplAuN2p)]
 
 * **Knowledge-Aware Query Expansion with Large Language Models for Textual and Relational Retrieval** <br>
   **Yu Xia**, Junda Wu, Sungchul Kim, Tong Yu, Ryan A. Rossi, Haoliang Wang, Julian McAuley. <br>
-  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">NAACL 2025</span>
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">NAACL 2025</span>
   [[Paper](https://aclanthology.org/2025.naacl-long.216.pdf)]
 
 * **Beyond Chain-of-Thought: A Survey of Chain-of-X Paradigms for LLMs** <br>
   **Yu Xia**, Rui Wang, Xu Liu, Mingyan Li, Tong Yu, Xiang Chen, Julian McAuley, Shuai Li. <br>
-  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">COLING 2025</span>
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">COLING 2025</span>
   [[Paper](https://aclanthology.org/2025.coling-main.719.pdf)]
 
 * **Embedding-Informed Adaptive Retrieval-Augmented Generation of Large Language Models** <br>
-  Chengkai Huang, **Yu Xia**, Rui Wang, Kaige Xie, Tong Yu, Julian McAuley, Lina Yao. <br>  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">COLING 2025</span>
+  Chengkai Huang, **Yu Xia**, Rui Wang, Kaige Xie, Tong Yu, Julian McAuley, Lina Yao. <br>  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">COLING 2025</span>
   [[Paper](https://aclanthology.org/2025.coling-main.94.pdf)]
 
 * **The Closeness of In-Context Learning and Weight Shifting for Softmax Regression** <br>
   (*Alphabetical Order*) Shuai Li, Zhao Song, **Yu Xia**, Tong Yu, Tianyi Zhou. <br>
-  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">NeurIPS 2024</span>
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">NeurIPS 2024</span>
   [[Paper](https://openreview.net/pdf?id=SFaEENfEyw)]
 
 * **Aligning as Debiasing: Causality-Aware Alignment via Reinforcement Learning with Interventional Feedback** <br>
   **Yu Xia**, Tong Yu, Zhankui He, Handong Zhao, Julian McAuley, Shuai Li. <br>
-  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">NAACL 2024</span>
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">NAACL 2024</span>
   [[Paper](https://aclanthology.org/2024.naacl-long.262.pdf)]
 
 * **Hallucination Diversity-Aware Active Learning for Text Summarization** <br>
   **Yu Xia**, Xu Liu, Tong Yu, Sungchul Kim, Ryan A. Rossi, Anup Rao, Tung Mai, Shuai Li. <br>
-  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">NAACL 2024</span>
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">NAACL 2024</span>
   [[Paper](https://aclanthology.org/2024.naacl-long.479.pdf)]
 
 * **Which LLM to Play? Convergence-Aware Online Model Selection with Time-Increasing Bandits** <br>
   **Yu Xia**\*, Fang Kong\*, Tong Yu, Liya Guo, Ryan A. Rossi, Sungchul Kim, Shuai Li. <br>
-  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">WWW 2024 Oral</span>
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">WWW 2024 Oral</span>
   [[Paper](https://dl.acm.org/doi/pdf/10.1145/3589334.3645420)]
 
 * **Towards Joint Utilization of Absolute and Relative Bandit Feedback for Conversational Recommendation** <br>
   **Yu Xia**\*, Zhihui Xie\*, Tong Yu, Canzhe Zhao, Shuai Li. <br>
-  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">UMUAI 2024 Special Issue on CRS</span> 
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">UMUAI 2024 Special Issue on CRS</span> 
   [[Paper](https://link.springer.com/content/pdf/10.1007/s11257-023-09388-5.pdf)]
 
 * **User-Regulation Deconfounded Conversational Recommender System with Bandit Feedback** <br>
   **Yu Xia**, Junda Wu, Tong Yu, Sungchul Kim, Ryan A. Rossi, Shuai Li. <br>
-  <span style="background-color: #e6f6ff; padding: 2px; border-radius: 5px;">KDD 2023</span> 
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">KDD 2023</span> 
   [[Paper](https://dl.acm.org/doi/pdf/10.1145/3580305.3599539)]
 
 </details>
