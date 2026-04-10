@@ -1,6 +1,11 @@
 
 # Selected Publications 
 
+* **Learning to Hint for Reinforcement Learning** <br>
+  **Yu Xia**, Canwen Xu, Zhewei Yao, Julian McAuley, Yuxiong He. <br>
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">arXiv 2026</span>
+  [[Paper](https://arxiv.org/pdf/2604.00698)]
+
 * **Multi-Agent Collaborative Filtering: Orchestrating Users and Items for Agentic Recommendations** <br>
   **Yu Xia**, Sungchul Kim, Tong Yu, Ryan A. Rossi, Julian McAuley. <br>
   <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">WWW 2026</span>
@@ -25,11 +30,6 @@
   **Yu Xia**, Rui Wang, Xu Liu, Mingyan Li, Tong Yu, Xiang Chen, Julian McAuley, Shuai Li. <br>
   <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">COLING 2025</span>
   [[Paper](https://aclanthology.org/2025.coling-main.719.pdf)]
-
-* **The Closeness of In-Context Learning and Weight Shifting for Softmax Regression** <br>
-  (*Alphabetical Order*) Shuai Li, Zhao Song, **Yu Xia**, Tong Yu, Tianyi Zhou. <br>
-  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">NeurIPS 2024</span>
-  [[Paper](https://openreview.net/pdf?id=SFaEENfEyw)]
 
 * **Aligning as Debiasing: Causality-Aware Alignment via Reinforcement Learning with Interventional Feedback** <br>
   **Yu Xia**, Tong Yu, Zhankui He, Handong Zhao, Julian McAuley, Shuai Li. <br>
