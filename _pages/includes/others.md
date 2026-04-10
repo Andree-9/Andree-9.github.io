@@ -34,7 +34,7 @@ B.Eng. in Electrical and Computer Engineering
   * 🅰️ **Adobe**, 2025 Jun-2025 Sep (Mentor: Dr. [Sungchul Kim](https://sites.google.com/site/subright/))
   * 🅰️ **Adobe**, 2024 Jun-2024 Nov (Mentor: Dr. [Sungchul Kim](https://sites.google.com/site/subright/))
 * Conference Reviewer
-  * RecSys'23, WWW'24, NAACL'24, COLING'25, WWW'25, NAACL'25, ACL'25, EMNLP'25, EACL'26, ICLR'26
+  * RecSys'23, WWW'24, NAACL'24, COLING'25, WWW'25, NAACL'25, ACL'25, EMNLP'25, EACL'26, ICLR'26, ACL'26
 * Conference Volunteer
   * NAACL'24
 
@@ -58,15 +58,20 @@ B.Eng. in Electrical and Computer Engineering
 <details markdown="1">
 <summary>Click to expand</summary>
 
+* **CachePrune: Neural-Based Attribution Defense Against Indirect Prompt Injection Attacks** <br>
+  Rui Wang, Junda Wu, **Yu Xia**, Tong Yu, Ruiyi Zhang, Ryan Rossi, Subrata Mitra, Lina Yao, Julian McAuley. <br>
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">ACL 2026</span>
+  [[Paper](https://arxiv.org/pdf/2504.21228)]
+
 * **Multi-Agent Collaborative Filtering: Orchestrating Users and Items for Agentic Recommendations** <br>
   **Yu Xia**, Sungchul Kim, Tong Yu, Ryan A. Rossi, Julian McAuley. <br>
   <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">WWW 2026</span>
   [[Paper](https://arxiv.org/pdf/2511.18413)]
 
-* **Large Language Models for Conversational User Simulation: A Comprehensive Survey** <br>
+* **A Survey on LLM-based Conversational User Simulation** <br>
   Bo Ni, Leyao Wang, Yu Wang, Branislav Kveton, Franck Dernoncourt, **Yu Xia**, Hongjie Chen, Reuben Leura, Samyadeep Basu, Subhojyoti Mukherjee, Puneet Mathur, Nesreen Ahmed, Junda Wu, Li Li, Huixin Zhang, Ruiyi Zhang, Tong Yu, Sungchul Kim, Jiuxiang Gu, Zhengzhong Tu, Alexa Siu, Zichao Wang, David Seunghyun Yoon, Nedim Lipka, Namyong Park, Zihao Lin, Trung Bui, Yue Zhao, Tyler Derr, Ryan A. Rossi. <br>
   <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">EACL 2026</span>
-  [[Paper](https://hal.science/hal-05217179v1/document)]
+  [[Paper](https://aclanthology.org/2026.eacl-long.200.pdf)]
 
 * **SAND: Boosting LLM Agents with Self-Taught Action Deliberation** <br>
   **Yu Xia**, Yiran Shen, Junda Wu, Tong Yu, Sungchul Kim, Ryan A. Rossi, Lina Yao, Julian McAuley. <br>
