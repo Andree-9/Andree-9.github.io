@@ -4,4 +4,4 @@ Hi~🍹 I am Yu Xia (夏羽), a 2nd-year CSE PhD student at [University of Calif
 
 I earned my bachelor's degree from [Shanghai Jiao Tong University](https://gc.sjtu.edu.cn/) and master's degree from [University of Michigan](https://www.si.umich.edu/). I have previously interned at ❄️Snowflake and 🅰️Adobe.
 
-My research focuses on developing **LLM & LLM Agents that actively learn from experience and improve at agentic reasoning, reinforced decision making, and personalized recommendations**. Feel free to drop me an [email](mailto:yux078@ucsd.edu) if you would like to discuss any ideas or explore potential collaborations!
+My research focuses on developing **LLM & LLM Agents that actively learn from experience and improve at i) adaptive reasoning, ii) reinforced decision making, and iii) personalized recommendations**. 
