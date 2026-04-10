@@ -1,3 +1,5 @@
 # News
 
-* 01/2026 🌋: Our [MACF](https://arxiv.org/pdf/2511.18413) framework is accepted to WWW 2026! It bridges traditional collaborative filtering with LLM-based multi-agent collaboration for agentic recommendations 🤖!
+* 04/2026 🌋: Check out our new work [HiLL](https://arxiv.org/pdf/2604.00698), which learns to generate **adaptive and transferable hints** via RL for addressing GRPO signal collapse!
+
+* 04/2026 🌋: I am joining [Meta](https://ai.meta.com/research/) this summer as a research scientist intern. See you at the Bay Area!
