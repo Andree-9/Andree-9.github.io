@@ -30,7 +30,7 @@ B.Eng. in Electrical and Computer Engineering
 
 ## Experiences
 * Research Scientist Intern
-  * ❄️ **Snowflake**, 2025 Sep-2026 Mar (Mentor: Dr. [Canwei Xu](https://www.canwenxu.net/))
+  * <img src="https://cdn.simpleicons.org/snowflake/29B5E8?viewbox=auto" alt="Snowflake" style="height:0.9em; width:auto; display:inline-block; position:relative;"> **Snowflake**, 2025 Sep-2026 Mar (Mentor: Dr. [Canwei Xu](https://www.canwenxu.net/))
   * 🅰️ **Adobe**, 2025 Jun-2025 Sep (Mentor: Dr. [Sungchul Kim](https://sites.google.com/site/subright/))
   * 🅰️ **Adobe**, 2024 Jun-2024 Nov (Mentor: Dr. [Sungchul Kim](https://sites.google.com/site/subright/))
 * Conference Reviewer
