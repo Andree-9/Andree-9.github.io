@@ -58,6 +58,11 @@ B.Eng. in Electrical and Computer Engineering
 <details markdown="1">
 <summary>Click to expand</summary>
 
+* **Simultaneous Multi-objective Alignment Across Verifiable and Non-verifiable Rewards** <br>
+  Yiran Shen, **Yu Xia**, Jonathan Chang, Prithviraj Ammanabrolu. <br>
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">ICML 2026</span>
+  [[Paper](https://arxiv.org/pdf/2510.01167)]
+
 * **CachePrune: Neural-Based Attribution Defense Against Indirect Prompt Injection Attacks** <br>
   Rui Wang, Junda Wu, **Yu Xia**, Tong Yu, Ruiyi Zhang, Ryan Rossi, Subrata Mitra, Lina Yao, Julian McAuley. <br>
   <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">ACL 2026</span>
