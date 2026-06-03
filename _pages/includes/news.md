@@ -1,5 +1,7 @@
 # News
 
+* 06/2026 🌋: Check out our new work [ACTS](https://arxiv.org/pdf/2606.03965), which builds a controller agent that **steers chain-of-thought in-flight** for efficient and budget-aware reasoning!
+
 * 05/2026 🌋: Our **multi-objective alignment** [paper](https://arxiv.org/pdf/2510.01167) is accepted to ICML 2026!
 
 * 04/2026 🌋: Check out our new work [HiLL](https://arxiv.org/pdf/2604.00698), which learns to generate **adaptive and transferable hints** via RL for addressing GRPO signal collapse!
