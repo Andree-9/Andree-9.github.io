@@ -61,7 +61,7 @@ B.Eng. in Electrical and Computer Engineering
 * **DICE: Dynamic In-Context Example Selection in LLM Agents via Efficient Knowledge Transfer** <br>
   Ruoyu Wang, Junda Wu, **Yu Xia**, Tong Yu, Ryan A. Rossi, Julian McAuley, Lina Yao. <br>
   <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">KDD 2026</span>
-  [[Paper](https://arxiv.org/pdf/2510.01167)]
+  [[Paper](https://arxiv.org/pdf/2507.23554)]
 
 * **Simultaneous Multi-objective Alignment Across Verifiable and Non-verifiable Rewards** <br>
   Yiran Shen, **Yu Xia**, Jonathan Chang, Prithviraj Ammanabrolu. <br>
