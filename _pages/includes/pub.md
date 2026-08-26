@@ -1,15 +1,15 @@
 
 # Selected Publications 
 
-* **Agentic Chain-of-Thought Steering for Efficient and Controllable LLM Reasoning** <br>
-  **Yu Xia**, Zhouhang Xie, Xin Xu, Byungkyu Kang, Prarit Lamba, Xiang Gao, Julian McAuley. <br>
-  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">arXiv 2026</span>
-  [[Paper](https://arxiv.org/pdf/2606.03965)]
-
 * **Learning to Hint for Reinforcement Learning** <br>
   **Yu Xia**, Canwen Xu, Zhewei Yao, Julian McAuley, Yuxiong He. <br>
   <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">arXiv 2026</span>
   [[Paper](https://arxiv.org/pdf/2604.00698)]
+
+* **Agentic Chain-of-Thought Steering for Efficient and Controllable LLM Reasoning** <br>
+  **Yu Xia**, Zhouhang Xie, Xin Xu, Byungkyu Kang, Prarit Lamba, Xiang Gao, Julian McAuley. <br>
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">EMNLP 2026 Findings</span>
+  [[Paper](https://arxiv.org/pdf/2606.03965)]
 
 * **Multi-Agent Collaborative Filtering: Orchestrating Users and Items for Agentic Recommendations** <br>
   **Yu Xia**, Sungchul Kim, Tong Yu, Ryan A. Rossi, Julian McAuley. <br>
