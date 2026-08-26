@@ -1,6 +1,6 @@
 # News
 
-* 06/2026 🌋: Check out our new work [ACTS](https://arxiv.org/pdf/2606.03965) accepted to EMNLP 2026 Findings, which builds a controller agent that **steers chain-of-thought in-flight** for efficient and budget-aware reasoning!
+* 08/2026 🌋: Check out our new work [ACTS](https://arxiv.org/pdf/2606.03965) accepted to EMNLP 2026 Findings, which builds a controller agent that **steers chain-of-thought in-flight** for efficient and budget-aware reasoning!
 
 * 05/2026 🌋: Our **multi-objective alignment** [paper](https://arxiv.org/pdf/2510.01167) is accepted to ICML 2026!
 
