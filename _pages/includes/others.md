@@ -59,6 +59,16 @@ B.Eng. in Electrical and Computer Engineering
 <details markdown="1">
 <summary>Click to expand</summary>
 
+* **Agentic Chain-of-Thought Steering for Efficient and Controllable LLM Reasoning** <br>
+  **Yu Xia**, Zhouhang Xie, Xin Xu, Byungkyu Kang, Prarit Lamba, Xiang Gao, Julian McAuley. <br>
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">EMNLP 2026 Findings</span>
+  [[Paper](https://arxiv.org/pdf/2606.03965)]
+
+* **An Empirical Study on Zero-Data Bootstrapping for Conversational Recommender Systems** <br>
+  Rohan Surana, Junda Wu, Zhouhang Xie, **Yu Xia**, Nathan Kallus, Julian McAuley. <br>
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">EMNLP 2026 Findings</span>
+  [[Paper](https://arxiv.org/pdf/2504.15476)]
+
 * **DICE: Dynamic In-Context Example Selection in LLM Agents via Efficient Knowledge Transfer** <br>
   Ruoyu Wang, Junda Wu, **Yu Xia**, Tong Yu, Ryan A. Rossi, Julian McAuley, Lina Yao. <br>
   <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">KDD 2026</span>
@@ -69,7 +79,17 @@ B.Eng. in Electrical and Computer Engineering
   <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">ICML 2026</span>
   [[Paper](https://arxiv.org/pdf/2510.01167)]
 
-* **CachePrune: Neural-Based Attribution Defense Against Indirect Prompt Injection Attacks** <br>
+* **Towards Agentic Recommender Systems in the Era of Multimodal Large Language Models** <br>
+  Chengkai Huang, Junda Wu, **Yu Xia**, Zixu Yu, Ruhan Wang, Tong Yu, Ruiyi Zhang, Ryan A. Rossi, Branislav Kveton, Dongruo Zhou, Julian McAuley, Lina Yao. <br>
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">TIST 2026</span>
+  [[Paper](https://arxiv.org/pdf/2503.16734)]
+
+* **Federated Large Language Models: Current Progress and Future Directions** <br>
+  Yuhang Yao, Jianyi Zhang, Junda Wu, Chengkai Huang, **Yu Xia**, Tong Yu, Ruiyi Zhang, Sungchul Kim, Ryan Rossi, Ang Li, Lina Yao, Julian McAuley, Yiran Chen. <br>
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">PAKDD 2026</span>
+  [[Paper](https://arxiv.org/pdf/2409.15723)]
+
+* **CachePrune: Teaching LLMs What Not to Follow via KV-Cache Editing** <br>
   Rui Wang, Junda Wu, **Yu Xia**, Tong Yu, Ruiyi Zhang, Ryan Rossi, Subrata Mitra, Lina Yao, Julian McAuley. <br>
   <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">ACL 2026</span>
   [[Paper](https://arxiv.org/pdf/2504.21228)]
