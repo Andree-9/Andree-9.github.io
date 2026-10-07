@@ -1,6 +1,11 @@
 
 # Selected Publications 
 
+* **Personal-Agent Mediated Recommendation with Cross-Platform User History** <br>
+  **Yu Xia**, Jiangfan Zhang, Jun Xiao, Julian McAuley, Xiangjun Fan. <br>
+  <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">arXiv 2026</span>
+  [[Paper](https://arxiv.org/pdf/2610.07588)]
+
 * **Learning to Hint for Reinforcement Learning** <br>
   **Yu Xia**, Canwen Xu, Zhewei Yao, Julian McAuley, Yuxiong He. <br>
   <span style="background-color: #fff4eb; padding: 2px; border-radius: 5px;">arXiv 2026</span>
