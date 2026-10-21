@@ -52,13 +52,14 @@ B.Eng. in Electrical and Computer Engineering
 * Shanghai Jiao Tong University Outstanding Undergraduate Award, 2020
 
 ## Visitors
-<div style="text-align: left;">
-  <script
-    type="text/javascript"
+<div style="float: left; width: 300px; max-width: 100%; margin: 0 !important; padding: 0; text-align: left !important;">
+  <script type="text/javascript"
     id="mapmyvisitors"
     src="https://mapmyvisitors.com/map.js?cl=343739&w=300&t=m&d=AYOVDbfk55WoJUb73q07kK43GZiXp8uEetLCfcP0qRQ&co=ffffff&cmo=ffd6b3&cmn=fda253&ct=cdd4d9">
   </script>
 </div>
+
+<div style="clear: both;"></div>
 
 ## Full Publication List
 
